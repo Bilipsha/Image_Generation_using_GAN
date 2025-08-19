@@ -54,4 +54,4 @@ GANs consist of two networks – a generator (G) and a discriminator (D). G prod
 Clone the repository into a local machine:
 
 ```bash
-git clone <your-repo-link>
+git clone <[your-repo-link](https://github.com/Bilipsha/Image_Generation_using_GAN)>
